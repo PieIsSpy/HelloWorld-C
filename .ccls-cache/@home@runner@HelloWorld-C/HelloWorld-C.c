@@ -24,4 +24,5 @@ int main() {
   printf("\nYou have %d apples", apples); // %d is for int
   printf("\nAnd I bet even if you had, your apple size is %f inches. %c%c.", inches, B, S); // %f is for float, %c is for char");
   return 0;
+  
 }
